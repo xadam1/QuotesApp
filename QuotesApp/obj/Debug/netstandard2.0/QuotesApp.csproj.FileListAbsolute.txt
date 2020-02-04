@@ -1,0 +1,14 @@
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/bin/Debug/netstandard2.0/QuotesApp.deps.json
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/bin/Debug/netstandard2.0/QuotesApp.dll
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/bin/Debug/netstandard2.0/ref/QuotesApp.dll
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/bin/Debug/netstandard2.0/QuotesApp.pdb
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/obj/Debug/netstandard2.0/QuotesPage.xaml.g.cs
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/obj/Debug/netstandard2.0/QuotesApp.AssemblyInfoInputs.cache
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/obj/Debug/netstandard2.0/QuotesApp.AssemblyInfo.cs
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/obj/Debug/netstandard2.0/QuotesApp.dll
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/obj/Debug/netstandard2.0/ref/QuotesApp.dll
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/obj/Debug/netstandard2.0/QuotesApp.pdb
+/Users/janadam/Coding/Csharp/QuotesApp/QuotesApp/obj/Debug/netstandard2.0/QuotesApp.csprojAssemblyReference.cache
